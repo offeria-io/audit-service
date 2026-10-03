@@ -1,5 +1,9 @@
 # Audit Service
 
+**Offeria — a product by [Al‑Wahha Al‑Sehriya](https://github.com/Al-Wahha-Al-Sehriya).**
+
+[Company website](https://wahasehriya.com/) · [Offeria repositories](https://github.com/offeria-io)
+
 ## Description
 The Audit Service is responsible for logging and managing audit trials across the Offeria platform. It consumes audit events from Kafka and stores them in a database for compliance and tracking purposes.
 
